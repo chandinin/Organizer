@@ -25,4 +25,7 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.2.0'
     compile 'com.android.support:design:23.2.0'
     compile 'de.hdodenhof:circleimageview:2.0.0'
+    compile 'com.scottyab:secure-preferences-lib:0.1.4'
+    compile 'com.android.support:recyclerview-v7:23.2.0'
+    compile 'com.android.support:appcompat-v7:23.2.0'
 }
